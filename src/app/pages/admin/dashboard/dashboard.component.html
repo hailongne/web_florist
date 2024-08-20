@@ -1,0 +1,33 @@
+<h2 class="text-xl font-semibold mb-4">Danh sách sản phẩm</h2>
+<div class="overflow-x-auto">
+  <table class="w-full whitespace-nowrap">
+    <thead>
+      <tr class="bg-gray-200">
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Tên sản phẩm</th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Hình ảnh</th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Mô tả</th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Giá</th>
+        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Action</th>
+      </tr>
+    </thead>
+    <tbody class="bg-white divide-y divide-gray-200">
+      <tr *ngFor="let product of products" class="hover:bg-gray-100">
+        <td class="px-6 py-4 whitespace-nowrap">{{ product.title }}</td>
+        <td class="px-6 py-4 whitespace-nowrap"><img class="w-20 h-auto" src="{{ product.thumbnail }}"
+            alt="{{ product.title }}" /></td>
+        <td class="px-6 py-4 whitespace-nowrap">{{ product.description?.slice(0, 50) }}</td>
+        <td class="px-6 py-4 whitespace-nowrap">${{ product.price }}</td>
+        <td>
+          <a [routerLink]="['product-edit/', product.id]" class="btn btn-warning w-full">Edit</a><br>
+          <button class=" btn btn-danger w-full" (click)="onDelete(product.id)">Remove</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<ng-template #noProducts>
+  <p>Không có sản phẩm nào.</p>
+</ng-template>

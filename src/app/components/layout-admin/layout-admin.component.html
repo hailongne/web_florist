@@ -1,0 +1,24 @@
+<header class="header-admin bg-gray-800 text-white py-4 px-6">
+  <h1>Hello Admin</h1>
+</header>
+
+<div class="content">
+  <div class="flex h-full">
+    <ul class="w-1/4 bg-gray-200">
+      <li class="p-4"><a [routerLink]="['/admin']" class="block text-gray-800 hover:bg-gray-300 rounded">Dashboard</a>
+      </li>
+      <li class="p-4"><a [routerLink]="['/admin/product-add']"
+          class="block text-gray-800 hover:bg-gray-300 rounded">Thêm
+          Sản
+          Phẩm Mới</a></li>
+      <li class="p-4"><a [routerLink]="['/admin/list-users']" class="block text-gray-800 hover:bg-gray-300 rounded">Danh
+          Sách
+          Người Dùng</a></li>
+      <li class="p-4"><a [routerLink]="['/']" class="block text-gray-800 hover:bg-gray-300 rounded">Quay Lại Trang
+          Chủ</a></li>
+    </ul>
+    <div class="w-3/4 bg-white p-4">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

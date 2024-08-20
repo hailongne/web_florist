@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Chậu Lan Hồ Điệp",
+      "description": "Chậu lan hồ điệp đang trong tình trạng tốt. Cây có lá xanh mướt và cành mạnh mẽ. Hoa nở đều và có màu sắc rực rỡ. Đất vẫn đủ ẩm và thoát nước tốt. Cây được đặt ở vị trí có đủ ánh sáng nhưng không bị nắng chói. Đang tiếp tục chăm sóc định kỳ để duy trì sức khỏe của cây.",
+      "price": 3000,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/447436367_442739391835777_2017498393785299524_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjHMY4brWcE2_2ZcqJx4ukgRDCjTUssNCBEMKNNSyw0NP1Mo6fvx34pycfW6Vo_27yXUqkxH5gsTIHUz9-ZsHq&_nc_ohc=dP_s8x7RAJIQ7kNvgHv12KV&_nc_ht=scontent.fhan15-1.fna&oh=00_AYC6JvJSmgdzhdv1oHcECaeIJQDeV-JiCBtZxR662b9fSQ&oe=6662BD02"
+    },
+    {
+      "id": 2,
+      "title": "Giỏ Hoa Mẫu Đơn",
+      "description": "Giỏ hoa mẫu đơn đang được chuẩn bị để gửi đi. Hoa được chọn lựa cẩn thận và sắp xếp một cách tỉ mỉ để tạo nên một bức tranh hoa tươi đẹp. Mỗi bó hoa được kết từ những loài hoa chất lượng cao, kết hợp với các loại lá và phụ kiện thêm để tạo điểm nhấn. Mỗi bó hoa đều được thiết kế và đóng gói một cách cẩn thận để đảm bảo rằng món quà sẽ gửi đi đến người nhận với sự đẹp mắt và ấn tượng nhất.",
+      "price": 1500,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/444488424_442546275188422_7335289285969226339_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGn9HFQv-NHmhFniTeaoXB_DPb7LSDRHzQM9vstINEfNEBzrLi6SXGn5yPtan9DPBsvvuVjRKvXj6gHyFxHN2FJ&_nc_ohc=-JMrrzDlWzAQ7kNvgEQ3W1Y&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCQOO2ulEoYh7tc_X7aDdfA5LglE7IXW_-h9ep2iGaULw&oe=6662B7AB"
+    },
+    {
+      "id": 3,
+      "title": "Giỏ Hoa Tone Cam Mix Trắng Có Lan Hồ Điệp",
+      "description": "Giỏ hoa tone cam mix trắng với lan hồ điệp đang sẵn sàng để tạo nên một không gian tràn đầy sức sống và sự tươi mới. Màu cam tươi sáng cùng với sắc trắng thanh lịch tạo ra một tổ hợp tuyệt vời, tôn vinh vẻ đẹp tự nhiên của các loại hoa. Lan hồ điệp, với vẻ đẹp kiêu sa và quyến rũ, là điểm nhấn hoàn hảo cho bức tranh hoa này, tạo nên sự sang trọng và tinh tế. Mỗi bó hoa đều được sắp xếp một cách tỉ mỉ và kỹ lưỡng, mang đến một dấu ấn riêng biệt và đầy sức sống cho không gian của bạn.",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/442503483_442076778568705_8059065183034773451_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFGNH4QjDt43QGt5DfIq9VrKw4CrrTR4b4rDgKutNHhvs5eLC0WbSG2gRSUaNlaTeAE7zOzogchTldqHdOEZ-_Q&_nc_ohc=Zn2uahHu7zUQ7kNvgESSAsq&_nc_ht=scontent.fhan15-1.fna&oh=00_AYD7oHrfCsZ-wR6j4kQAkRJ3oGhQ8JhOoy4WUBFvM3ByBA&oe=6662DB8B"
+    },
+    {
+      "id": 4,
+      "title": "viết status ngắn về Giỏ Quả Tone Đỏ ",
+      "description": "Giỏ quả tone đỏ - một sự kết hợp hoàn hảo của sự tươi mới và ngọt ngào. Giỏ quả được sắp xếp cẩn thận với những loại trái cây chọn lọc, từ cherry đỏ, lựu tươi, đến những quả dâu thơm ngon. Màu đỏ rực rỡ tạo nên sự rực rỡ và sức sống, đem lại cảm giác phấn khích và hứng khởi. Mỗi quả trong giỏ đều thể hiện sự tươi mới và ngon ngọt, hoàn hảo cho một buổi sáng tươi mới hoặc là món quà ý nghĩa cho người thân yêu.",
+      "price": 1000,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/441910600_440825025360547_6835948881247752230_n.jpg?stp=dst-jpg_s600x600&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeESra41jrPklU9zPGI3qUfqA125LaRSMLcDXbktpFIwtxVI7-vVuhXD02bAyMjWuH-DHqcLgbVrRmGnqTvurEia&_nc_ohc=I4yN-d5uVXMQ7kNvgE2hXhk&_nc_ht=scontent.fhan15-2.fna&oh=00_AYAMODUk1egafB_aGSwvcRuZPCwwIftIf2jEuLx0LvLoPQ&oe=6662E10B"
+    },
+    {
+      "id": 5,
+      "title": "Giỏ Hoa Tone Vàng ",
+      "description": "Giỏ hoa tone vàng là sự hòa quyện giữa vẻ đẹp rực rỡ và sự ấm áp của màu sắc này. Từ những bông hoa màu vàng tươi sáng như hoa cúc, hoa hướng dương, đến những loài hoa trắng nhẹ nhàng, giỏ hoa tone vàng tạo ra một không gian đầy sức sống và tươi mới. Màu vàng rực rỡ tượng trưng cho sự sung túc và may mắn, mang lại cảm giác niềm vui và hạnh phúc. Mỗi bó hoa được sắp xếp một cách tỉ mỉ và tinh tế, tạo nên một tác phẩm nghệ thuật tự nhiên đầy ấn tượng và sức sống.",
+      "price": 600,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/442508968_438458328930550_2097909282556447737_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHzmMqOik_qs55sKNEll0ecoISxnrVfuueghLGetV-652ADaFwJXjYNq-kyTJGPWcEB-ejRrbyMGoSoSkrgsPUA&_nc_ohc=o3BZZ4g8KngQ7kNvgFYNzpU&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDXWNzp9jayyeowGi8CnJxd5gr41S3r6tnK49YQeOB7NQ&oe=6662B3EF"
+    },
+    {
+      "id": 6,
+      "title": "Bó Hoa Tone Đỏ",
+      "description": "Bó hoa tone đỏ là biểu tượng của tình yêu và sự gắn kết. Từ những bông hoa đỏ rực rỡ như hoa hồng và hoa cẩm chướng, đến những loài hoa khác như hoa thạch thảo và hoa cúc, bó hoa tone đỏ tạo nên một bức tranh đẹp đẽ và quyến rũ. Màu đỏ đam mê và sôi động, tượng trưng cho sự nhiệt huyết và mong chờ. Mỗi bó hoa là một tuyên ngôn về tình yêu và lòng trung thành, mang lại cảm giác ấm áp và hạnh phúc cho người nhận.",
+      "price": 1500,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444487926_437549389021444_8682597346710328984_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF4vL18rf7un3mTHr_0ZdUF4DGA5K6vBzrgMYDkrq8HOkqSb1UDa_EayWgJXqaW5tSTAoFEI0XbO1J4pcqwlR3B&_nc_ohc=g-mZf6ErN4AQ7kNvgFRAy1z&_nc_ht=scontent.fhan15-1.fna&oh=00_AYAN0wd6C2P2o2qKUd9i5me6MgD2USj1QExBxDS7LYX4sw&oe=6662BB6C"
+    },
+    {
+      "id": 7,
+      "title": "Kệ Hoa Tone Xanh Độc Đáo",
+      "description": "Kệ hoa tone xanh độc đáo là sự kết hợp tinh tế giữa sự tươi mới và sự bình yên của màu xanh. Từ những loài hoa xanh như lá dừa, lá chuối, đến những cành cây nhỏ và phụ liệu trang trí, kệ hoa tone xanh tạo ra một không gian tự nhiên và tinh tế. Màu xanh tượng trưng cho sự sống và hy vọng, mang lại cảm giác yên bình và thanh thản. Mỗi chi tiết trên kệ hoa là một điểm nhấn độc đáo, tạo nên một tác phẩm nghệ thuật tự nhiên đầy ấn tượng và sức sống",
+      "price": 3000,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/444486678_436960802413636_8657379893971237658_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFwkx2t55bhGVk--0WPolndHyGPlq5VnlAfIY-WrlWeUJNZz2wAv1KpPThDJA2weKMtceTGmjUqlcwKY2VA00wv&_nc_ohc=OCpXWNxfh1QQ7kNvgGTTVAX&_nc_ht=scontent.fhan15-2.fna&oh=00_AYD3dyHOzY0FZtSXWLwcCpQoTxDoWDlZT1STX78XbEN2Pw&oe=6662B77F"
+    },
+    {
+      "id": 8,
+      "title": "Bó Hoa Mẫu Đơn",
+      "description": "Bó hoa mẫu đơn là biểu tượng của sự tinh tế và đẳng cấp. Từ những cành hoa đơn sắc tinh tế, đến những chiếc lá xanh mát, bó hoa mẫu đơn tạo nên một tổ hợp đầy phong cách và sang trọng. Sự đơn giản và thanh lịch của hoa mẫu đơn tạo nên một vẻ đẹp tinh tế và đẳng cấp. Mỗi bó hoa mẫu đơn đều thể hiện sự trang nhã và sự đẳng cấp, là một lựa chọn hoàn hảo cho những dịp quan trọng và đặc biệt.",
+      "price": 800,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/441586440_436199605823089_7706441183148246336_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFYWnRC1Fngx2m-MOvIiI0UlFesxt0k5_yUV6zG3STn_E0KPrQOfdrz6t-5ZBWEGbBHDM2StBA6uN7jn0dlD_qU&_nc_ohc=3Hcu47AImioQ7kNvgGlKjPe&_nc_ht=scontent.fhan15-1.fna&oh=00_AYAoezgMwsps0Gw2_SL5_TeI87QRfZz7aLxQsK1RTW2h5w&oe=6662BB75"
+    },
+    {
+      "id": 9,
+      "title": "Bó Hoa Tone Đỏ",
+      "description": "Bó hoa tone đỏ là biểu tượng của tình yêu và sự gắn kết. Từ những bông hoa đỏ rực rỡ như hoa hồng và hoa cẩm chướng, đến những loài hoa khác như hoa thạch thảo và hoa cúc, bó hoa tone đỏ tạo nên một bức tranh đẹp đẽ và quyến rũ. Màu đỏ đam mê và sôi động, tượng trưng cho sự nhiệt huyết và mong chờ. Mỗi bó hoa là một tuyên ngôn về tình yêu và lòng trung thành, mang lại cảm giác ấm áp và hạnh phúc cho người nhận.",
+      "price": 800,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444492773_436161152493601_7826665112565414940_n.jpg?stp=dst-jpg_s600x600&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHi7SjrJYFF65FpMLykXqBDJWHGvFmMlw8lYca8WYyXDwFaramGiJJ1IMaa7oj3vxQlUnxWZaARc9aXgwJ9CMic&_nc_ohc=72mBfl8j0NwQ7kNvgFyXrRD&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCOVKMLdWuYmWTpI_ddc1pNaGaPD56Hx_mFHTQTJYlUQg&oe=6662B9B3"
+    },
+    {
+      "id": 10,
+      "title": "Chậu Lan Hồ Điệp Giỏ Gỗ Thông",
+      "description": "hậu Lan Hồ Điệp trong Giỏ Gỗ Thông là một biểu tượng của sự sang trọng và sự tinh tế. Kết hợp giữa vẻ đẹp của loài hoa Lan Hồ Điệp và vẻ đẹp tự nhiên của gỗ thông, chậu hoa này tạo ra một điểm nhấn độc đáo và quý phái trong không gian sống.",
+      "price": 4500,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444484068_436727112437005_232185529514086743_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGYR8XBz2N69_vARgaw1cG7lsNVrUancI2Ww1WtRqdwjbXDd5VMH7Y6LCCHmGb-214cDT2G0ZMQ8tKcHQk6CO-g&_nc_ohc=bwP9H_nbxwkQ7kNvgEqD_5a&_nc_ht=scontent.fhan15-1.fna&oh=00_AYClHLIV7GgbIHEnMrrbwNnSiEsIZJwzw9LJkFseLr4kIQ&oe=6662E2C5"
+    },
+    {
+      "id": 11,
+      "title": "Chậu Lan Hồ Điệp Giỏ Gỗ Thông",
+      "description": "hậu Lan Hồ Điệp trong Giỏ Gỗ Thông là một biểu tượng của sự sang trọng và sự tinh tế. Kết hợp giữa vẻ đẹp của loài hoa Lan Hồ Điệp và vẻ đẹp tự nhiên của gỗ thông, chậu hoa này tạo ra một điểm nhấn độc đáo và quý phái trong không gian sống.",
+      "price": 4000,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/443818558_436727135770336_2892129358672357391_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG8Yvb5Jtdlcgy29Q3Mu5U4dZMiT01Ng051kyJPTU2DTpFOHua0maBXSp4yrwel-rHpPhCnxet3U6wjsmUZDb-l&_nc_ohc=Psqdxl6WfJwQ7kNvgF02jEH&_nc_ht=scontent.fhan15-1.fna&oh=00_AYB6RhbkmHHHqBtD6zUCq6n9xIqIJ2JiA-R4zS0I3UBLvg&oe=6662C973"
+    },
+    {
+      "id": 12,
+      "title": "Cốc Lan Hồ Điệp Decor Sự Kiện",
+      "description": "Cốc Lan Hồ Điệp Decor Sự Kiện không chỉ là một phần của trang trí, mà còn là điểm nhấn của không gian, tạo ra một bầu không khí ấm áp và lãng mạn. Sự kết hợp giữa vẻ đẹp tự nhiên của hoa Lan Hồ Điệp và sự sang trọng của cốc tạo nên một điểm nhấn đặc biệt, góp phần làm cho sự kiện trở nên đặc biệt và đáng nhớ.",
+      "price": 500,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/442505039_436649012444815_3241852934488391418_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGfB25ROZA0cGKxag2l4_nDUXVOYcrfAIJRdU5hyt8AgoSqcD2Xd27hCZkqhHH32cHhgDqrjL3XlAzwZI2Pmgxu&_nc_ohc=aOiX4AUE6coQ7kNvgHSBrz4&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCnjnT5MFHREJPQUCzeGBLp9rRDzLrt1rpDTYpanZQQRg&oe=6662BD3C"
+    },
+    {
+      "id": 13,
+      "title": "Bó Hoa Mẫu Đơn",
+      "description": "Bó hoa mẫu đơn là biểu tượng của sự tinh tế và đẳng cấp. Từ những cành hoa đơn sắc tinh tế, đến những chiếc lá xanh mát, bó hoa mẫu đơn tạo nên một tổ hợp đầy phong cách và sang trọng. Sự đơn giản và thanh lịch của hoa mẫu đơn tạo nên một vẻ đẹp tinh tế và đẳng cấp. Mỗi bó hoa mẫu đơn đều thể hiện sự trang nhã và sự đẳng cấp, là một lựa chọn hoàn hảo cho những dịp quan trọng và đặc biệt.",
+      "price": 1500,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/442414035_436605699115813_2139141692911462760_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFVNVcul04zy2pbGxYLlxcCVsXEdGQfvk1WxcR0ZB--TTAoAGAVvTLVPoGcSxDy8CqsPVW5nuMji7IM7syFu2iF&_nc_ohc=-O4nd6WIy7kQ7kNvgEJmB_9&_nc_ht=scontent.fhan15-1.fna&oh=00_AYC2IbORiqtd8aX5jO4z2UKwZy7Uste-JqsDz8RVAcgKfA&oe=6662B3FB"
+    },
+    {
+      "id": 14,
+      "title": "Bó Hoa Tone Đỏ      ",
+      "description": "Bó hoa tone đỏ là biểu tượng của sự đam mê và tình yêu. Từ những bông hoa đỏ rực rỡ như hoa hồng và hoa cẩm chướng, đến những loài hoa khác như hoa thạch thảo và hoa cúc, bó hoa tone đỏ tạo nên một bức tranh đẹp đẽ và quyến rũ. Màu đỏ tươi sáng là biểu tượng của tình yêu và sự nhiệt huyết, tạo nên cảm giác phấn khích và hứng khởi. Mỗi bó hoa tone đỏ là một tuyên ngôn về tình yêu và lòng trung thành, mang lại cảm giác ấm áp và hạnh phúc cho người nhận.",
+      "price": 1000,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444492773_436161152493601_7826665112565414940_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHi7SjrJYFF65FpMLykXqBDJWHGvFmMlw8lYca8WYyXDwFaramGiJJ1IMaa7oj3vxQlUnxWZaARc9aXgwJ9CMic&_nc_ohc=72mBfl8j0NwQ7kNvgFyXrRD&_nc_ht=scontent.fhan15-1.fna&oh=00_AYB4zb9tFQ3Z2MKtcV_EiQJdKX2_GAZr5WbHao6lHxBtCA&oe=6662B9B3"
+    },
+    {
+      "id": 15,
+      "title": "Bình Hoa Mix Mẫu Đơn",
+      "description": "Bình hoa mix mẫu đơn là một sự kết hợp độc đáo và tinh tế giữa những cành hoa mẫu đơn và các loài hoa khác nhau. Sự đơn giản và thanh lịch của hoa mẫu đơn kết hợp cùng với sự đa dạng và phong phú của các loài hoa khác, tạo nên một bức tranh hoa độc đáo và quyến rũ. Bình hoa mix mẫu đơn không chỉ là điểm nhấn tuyệt vời cho không gian trang trí, mà còn là biểu tượng của sự tinh tế và sự độc đáo trong trang trí nội thất. Sự kết hợp này mang lại cảm giác thanh bình và hài hòa cho mọi không gian.",
+      "price": 1500,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/444485779_435963382513378_6503443537405366191_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFxzoqTv9uXTitgjTTa5ZCZ8LjJXzOSBWDwuMlfM5IFYM6P-P9pnXQxA93BcordcnPbbwn-bbloUAtyGU7zaQ4O&_nc_ohc=N4lmvqefoCMQ7kNvgEzEGfD&_nc_ht=scontent.fhan15-2.fna&oh=00_AYD_-fm9L8bgnXiyO1ZZ82_bNJ_vSLZkIacj9AgmtA6yEA&oe=6662E704"
+    },
+    {
+      "id": 16,
+      "title": "Bó Hoa Tone Xanh Lá",
+      "description": "Bó hoa tone xanh lá là biểu tượng của sự tươi mới và thanh bình. Từ những cành hoa màu xanh như lá cây, lá chuối, đến những loài hoa khác như hoa cúc xanh và hoa baby's breath, bó hoa tone xanh lá tạo nên một bức tranh hoa tươi mới và gần gũi với thiên nhiên. Màu xanh lá tượng trưng cho sự sống và hy vọng, mang lại cảm giác yên bình và sự hài lòng. Mỗi bó hoa tone xanh lá là một món quà tuyệt vời để tặng cho người thân yêu hoặc để trang trí không gian sống với sự tươi mới và sức sống.",
+      "price": 1500,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444761645_435963542513362_6286164530404701018_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFAvXdM_9geTdkYI5fb_1plsU7zMyx_gouxTvMzLH-CixJHbCONuFXyyupDZQQN5p0b5jRB9czu-IbIqpkA3azN&_nc_ohc=LXUbpHyxl_sQ7kNvgFXgGv3&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCiXPfPbsv4NtjGagMFQ5oxrZSk1ABgL-6Le3QZZP9Gsw&oe=6662B9B0"
+    },
+    {
+      "id": 17,
+      "title": "Chậu Lan Hồ Điệp Ngày Tết",
+      "description": "Chậu Lan Hồ Điệp là một biểu tượng truyền thống của ngày Tết, tượng trưng cho sự may mắn và thành công. Trong ngày Tết, chậu Lan Hồ Điệp thường được trưng bày ở các gia đình và nơi công cộng như một biểu tượng của sự phồn thịnh và tài lộc. Loài hoa này được coi là biểu tượng của sự giàu có và thịnh vượng, và việc trang trí với chậu Lan Hồ Điệp mang lại cảm giác lạc quan và hy vọng cho năm mới đang đến. Chậu Lan Hồ Điệp với màu sắc tươi sáng và hương thơm dịu dàng của nó không chỉ làm cho không gian trở nên sinh động mà còn mang lại niềm vui và hạnh phúc cho mọi người trong dịp Tết.",
+      "price": 1200,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444500425_435541612555555_1899291097185267269_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEjjApfAxUYYwBwEOjHjbTVB49FV7itozMHj0VXuK2jM7EAzuWbcbf_0uoFoPIbdEeEf9hX88oYFSKCZBM2dkH8&_nc_ohc=ag8A_oc9zxAQ7kNvgGpJ3MS&_nc_ht=scontent.fhan15-1.fna&oh=00_AYC8sOMWa3T4MjI8bClDgQ-9PrSo9HAQuUl2-j_mUWo6ag&oe=6662C946"
+    },
+    {
+      "id": 18,
+      "title": "Chậu Lan Hồ Điệp Ngày Tết",
+      "description": "Chậu Lan Hồ Điệp là một biểu tượng truyền thống của ngày Tết, tượng trưng cho sự may mắn và thành công. Trong ngày Tết, chậu Lan Hồ Điệp thường được trưng bày ở các gia đình và nơi công cộng như một biểu tượng của sự phồn thịnh và tài lộc. Loài hoa này được coi là biểu tượng của sự giàu có và thịnh vượng, và việc trang trí với chậu Lan Hồ Điệp mang lại cảm giác lạc quan và hy vọng cho năm mới đang đến. Chậu Lan Hồ Điệp với màu sắc tươi sáng và hương thơm dịu dàng của nó không chỉ làm cho không gian trở nên sinh động mà còn mang lại niềm vui và hạnh phúc cho mọi người trong dịp Tết.",
+      "price": 1500,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444481749_435541742555542_4899741876532479845_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFkb1ZPkhCV4YcyZwcldwSgzF9K_Pw9fLXMX0r8_D18tfE8oJdcBp35OCUTgF0v_yXH_dYL7A6-wpMuUDt_YIy_&_nc_ohc=RXLsKRDqo94Q7kNvgGGL2ef&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDn4D5XY4bAGpmea3rjSCllm6XGNApA38GHTxdRwYlCvA&oe=6662CFD7"
+    },
+    {
+      "id": 19,
+      "title": "Giỏ Hoa Tone Rực Rỡ",
+      "description": "Giỏ hoa tone rực rỡ là một biểu tượng của sự vui tươi và sôi động. Từ những bông hoa sặc sỡ và tươi tắn như hoa hồng, hoa cẩm chướng đến những cành hoa khác nhau, giỏ hoa tone rực rỡ tạo nên một bức tranh hoa tươi sáng và lôi cuốn. Sự kết hợp của các loại hoa với màu sắc tươi vui mang lại cảm giác hứng khởi và năng động. Giỏ hoa tone rực rỡ là lựa chọn hoàn hảo để làm sinh động không gian và tạo điểm nhấn cho bất kỳ dịp kỷ niệm nào.",
+      "price": 1300,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/441461261_435518345891215_3372157946859674557_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEWejfB1IlqXBNljQ89Pl7PF56Uj8QGsQgXnpSPxAaxCOL5tpwArtA8y6WqhaxsbIW98eE0ygmi2NjpLrTndmcx&_nc_ohc=oU0c_C2agJEQ7kNvgEwk5SJ&_nc_ht=scontent.fhan15-2.fna&oh=00_AYDSsYI_uTD6KUGTXlSDG-GfttAQkt3RJ9EQIO7Ds1U50A&oe=6662E158"
+    },
+    {
+      "id": 20,
+      "title": "Giỏ Hoa Tone Đỏ Hoành Tráng",
+      "description": "Giỏ hoa tone đỏ hoành tráng là biểu tượng của sự lãng mạn và quyền lực. Từ những bông hoa đỏ rực rỡ như hoa hồng và hoa cẩm chướng, đến những loài hoa khác như hoa thạch thảo và hoa cúc, giỏ hoa tone đỏ hoành tráng tạo nên một bức tranh hoa mạnh mẽ và lôi cuốn. Màu đỏ tươi sáng thường được liên kết với tình yêu và sự đam mê, tạo ra cảm giác ấm áp và phấn khích. Giỏ hoa tone đỏ hoành tráng là biểu tượng của sự kiêu hãnh và sang trọng, là một lựa chọn hoàn hảo để tạo điểm nhấn trong mọi sự kiện quan trọng và đặc biệt.",
+      "price": 1700,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/444502026_434798802629836_3491117566316177974_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFp2DOM2NFG3323ykTrVB1Hui9zEHWRj7O6L3MQdZGPs1oM8e54LTtlchwls2JGq2jPOJbqlTAKJTTPdE-sx_Bf&_nc_ohc=LNmtz4D6zuAQ7kNvgF_dWah&_nc_ht=scontent.fhan15-2.fna&oh=00_AYD9yVi68UDxcdkU0Z8BKW7SA8e5YZBppCJSVbiBWGjdwA&oe=6662DC97"
+    },
+    {
+      "id": 21,
+      "title": "Bó Hoa Tulip Mix Lan Hồ Điệp Tone Xanh",
+      "description": "Bó hoa tulip mix Lan Hồ Điệp tone xanh là sự kết hợp độc đáo giữa vẻ đẹp tinh tế của hoa tulip và sự kiêu sa của Lan Hồ Điệp, trong một gam màu xanh mát mắt. Những bông hoa tulip, với sắc màu tươi sáng và hình dáng độc đáo, kết hợp hoàn hảo với vẻ đẹp thanh lịch của Lan Hồ Điệp, tạo nên một bức tranh hoa tươi mới và quyến rũ. Màu xanh tự nhiên của lá và hoa cùng nhau tạo ra một không gian gần gũi với thiên nhiên và đem lại cảm giác yên bình và tĩnh lặng. Bó hoa tulip mix Lan Hồ Điệp tone xanh là một lựa chọn hoàn hảo để tạo điểm nhấn cho không gian sống hoặc làm quà tặng ý nghĩa cho những người thân yêu.",
+      "price": 1500,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/442469965_433996936043356_3445529357440666250_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFiytYSo5O5K9T39YBN608VMsEzMMds5E0ywTMwx2zkTVVvVxJvYLVrlUeeNKGyXYsuKcF6mwD6cvK9w2EKSuyd&_nc_ohc=iPstl3OKoVAQ7kNvgEldWwd&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDNuOYSQf3UUow_pJpbPOB5xNpsxcVUIuVIiQWvbI2cpw&oe=6662C1C1"
+    },
+    {
+      "id": 22,
+      "title": "Giỏ Hoa Tone Đỏ Rực Rỡ",
+      "description": "Giỏ hoa tone đỏ rực rỡ là biểu tượng của sự nhiệt huyết và đam mê. Từ những bông hoa đỏ tươi sáng như hoa hồng và hoa cẩm chướng đến những cành hoa khác như hoa lily và hoa cúc, giỏ hoa tone đỏ tạo nên một bức tranh hoa tươi sáng và lôi cuốn. Màu đỏ rực rỡ thường được liên kết với tình yêu và sự hào hứng, tạo ra cảm giác phấn khích và vui vẻ. Giỏ hoa tone đỏ rực rỡ là biểu tượng của sức sống và quyền lực, làm cho mọi không gian trở nên sống động và đầy sức sống.",
+      "price": 1000,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/444483066_433437872765929_3081689090497408762_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHfA064M1OrHB578NNjrosrUOTYg3GP3tRQ5NiDcY_e1MXOOGwBGExq1otGXoYYVlbWMXVGhJQfv2aOjnMAeDh1&_nc_ohc=roTp9gqlgWQQ7kNvgGETU64&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBX2OZ67OTRNDCDDD5LQdoeKBG8-yBRg65WUOwPCkICxA&oe=6662E31B"
+    },
+    {
+      "id": 23,
+      "title": "Kệ Hoa Khai Trương Tone Tím",
+      "description": "Kệ hoa khai trương tone tím là một biểu tượng của sự trang nhã và lịch lãm. Màu tím thường được coi là biểu tượng của sự quý phái và thanh lịch, và khi được kết hợp vào kệ hoa khai trương, nó tạo ra một không gian trang trọng và đặc biệt. Những bông hoa có tone tím như hoa cẩm tú cầu, hoa hồng tím và hoa lan tím tạo nên một bức tranh hoa tươi mới và quyến rũ. Kệ hoa khai trương tone tím không chỉ là biểu tượng của sự chúc mừng và thành công, mà còn là điểm nhấn độc đáo cho bất kỳ sự kiện nào, từ lễ khai trương đến buổi tiệc quan trọng.",
+      "price": 1500,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/435927328_431640359612347_5763203201397621935_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFtaEwSzZfkavc6gK7xhfyn0wTdUr26xbHTBN1SvbrFsXlaUAY2rfRmY51GG-fZ2uz4-hHV3pXa8ZZ1OwHUxJek&_nc_ohc=A9Jk2oRs7ZsQ7kNvgEQLwNn&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBqzWB8gPjrmXHsaPmMrTGi1_V6p5uAp9U-RndcjEMrOg&oe=6662AFFA"
+    },
+    {
+      "id": 24,
+      "title": "Kệ Hoa Khai Trương Tone Đỏ",
+      "description": "Kệ hoa khai trương tone đỏ là biểu tượng của sự may mắn và thành công. Màu đỏ thường được coi là biểu tượng của sức mạnh và năng lượng, và khi được kết hợp vào kệ hoa khai trương, nó tạo ra một không gian trang trọng và đầy phong thái. Những bông hoa có tone đỏ như hoa hồng đỏ, hoa cẩm chướng và hoa lily đỏ tạo nên một bức tranh hoa tươi mới và cuốn hút. Kệ hoa khai trương tone đỏ không chỉ là biểu tượng của sự chúc mừng và thành công, mà còn là điểm nhấn sang trọng và lịch lãm cho bất kỳ sự kiện nào.",
+      "price": 1500,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/442500987_431640272945689_5867143885960333301_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGCTEZbxYxq6JqBiZDDpdFRRq9adwdx1ztGr1p3B3HXO1kiCDeLfOgIy5wjVGccvHYZRCqg6RFu0tIc9H1z5t7B&_nc_ohc=UIc-uRO7QZIQ7kNvgGMWDcp&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBx0oEPxooSvq4BPwYOp_CAoq8T3fmZt8qyLEEMguExDA&oe=6662DA1B"
+    },
+    {
+      "id": 25,
+      "title": "Kệ Hoa Khai Trương Tone Đỏ Mix Cam ",
+      "description": "Kệ hoa khai trương tone đỏ mix cam là một lựa chọn độc đáo và lôi cuốn. Sự kết hợp giữa màu đỏ đam mê và màu cam tươi sáng tạo ra một không gian trang trọng và sôi động. Những bông hoa có tone đỏ như hoa hồng đỏ và hoa cẩm chướng, kết hợp với những loại hoa màu cam như hoa cúc và hoa lan tạo ra một bức tranh hoa độc đáo và cuốn hút. Kệ hoa khai trương tone đỏ mix cam là biểu tượng của sự chúc mừng và thành công, đồng thời là điểm nhấn lôi cuốn cho mọi sự kiện khai trương và lễ kỷ niệm.",
+      "price": 3000,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/440455092_431402872969429_3123696774971799218_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGsesYIbaiC6-wn6BLtqgyUgF1EySssdAyAXUTJKyx0DBK7cFOfoOjYzmhR6Bg_GOXAyI5KmsFFairpfyyO2CuU&_nc_ohc=AHA2vzrl-c0Q7kNvgFcZIHq&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCQKUGCK-ISh7SwXUvAGfnW5DPPHlcqD1BBsRQzMEnC1A&oe=6662D00D"
+    },
+    {
+      "id": 26,
+      "title": "Giỏ Quả Tặng Thầy Cô, Bạn Bè, Đồng Nghiệp và Đối Tác",
+      "description": "Giỏ quả tặng là một món quà đầy ý nghĩa và tinh tế, thích hợp để dành tặng cho thầy cô, bạn bè, đồng nghiệp và đối tác trong nhiều dịp khác nhau. Sự kết hợp của các loại quả tươi ngon như táo, lê, nho, dâu, cam và nhiều loại quả khác không chỉ mang lại hương vị đặc biệt mà còn gửi đi thông điệp của sức khỏe và hạnh phúc. Mỗi lần nhìn thấy giỏ quả tươi mát và bắt mắt, ta không chỉ cảm thấy hứng khởi về việc thưởng thức hương vị của từng loại quả mà còn nhớ đến sự quan tâm và tôn trọng từ người tặng. Đối với thầy cô, đây là biểu tượng của sự biết ơn về sự hướng dẫn và sự đóng góp trong việc hình thành nhân cách của chúng ta. Đối với bạn bè, đồng nghiệp và đối tác, giỏ quả là một cách tuyệt vời để gửi đi lời chúc mừng và thành công trong mọi công việc và cuộc sống. Với sự kết hợp khéo léo giữa sắc quả và tình cảm, mỗi giỏ quả trở thành một món quà ý nghĩa và độc đáo, góp phần tạo thêm niềm vui và hạnh phúc cho người nhận.",
+      "price": 700,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/438304865_429707006472349_8751519253336743983_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGGWREeX8fkqeHFu--VzvlRT4AEmN934ExPgASY33fgTGPXlX62URxLsbHn63zqG5tQSpJHkIG1aAw3_zP9kBl_&_nc_ohc=rZoBbc6bAKsQ7kNvgEwBkVl&_nc_ht=scontent.fhan15-2.fna&oh=00_AYDnkd8QgiydIlVDfwvOFiEkANaO4pTyilcnqcoZDF4O-g&oe=6662D443"
+    },
+    {
+      "id": 27,
+      "title": "Kệ Hoa Khai Trương Tone Tím Hoành Tráng",
+      "description": " Kệ hoa khai trương tone tím hoành tráng là biểu tượng của sự sang trọng và phong cách. Màu tím thường được coi là biểu tượng của sự quý phái và thanh lịch, và khi được kết hợp vào kệ hoa khai trương, nó tạo ra một không gian trang trọng và ấn tượng. Những bông hoa có tone tím như hoa hồng tím, hoa cẩm chướng và hoa lan tím kết hợp với các loại hoa và lá màu xanh tạo nên một bức tranh hoa đẹp mắt và đầy lôi cuốn. Kệ hoa khai trương tone tím hoành tráng là biểu tượng của sự may mắn và thành công, làm cho mọi không gian trở nên sang trọng và đẳng cấp trong bất kỳ dịp kỷ niệm nào.",
+      "price": 2000,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/440431023_429519883157728_2958952939418790939_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEySq7jaeKb25-WMg7F490G0Nopgt_BStbQ2imC38FK1rmC7Ekh-kiBNn_fY0h-pGWTIBiNIEVVLCYiOcSbaxn1&_nc_ohc=-Y-jwYk8h_AQ7kNvgHan_Ar&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCKlbJDL-lWPwiiSx8mNWQwqlgbkoP9lhw0EcYaZJjnSQ&oe=6662CD63"
+    },
+    {
+      "id": 28,
+      "title": "Bó Hoa Tone Cam Mix Cúc Mẫu Đơn",
+      "description": "Bó hoa tone cam mix cúc mẫu đơn là sự kết hợp độc đáo giữa màu cam tươi sáng và vẻ đẹp đơn giản của hoa cúc mẫu đơn, tạo ra một bức tranh hoa tươi mới và cuốn hút, mang lại cảm giác vui tươi và phấn khích. Đây là một món quà lý tưởng để tặng trong các dịp đặc biệt, biểu tượng của sự trẻ trung và sôi động.",
+      "price": 800,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "thumbnail": "https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/440421076_429102123199504_8301070336237714849_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGt7wVozXb--YhUYE3p0hSOSi28pPdMaidKLbyk90xqJ2eh2upc2W-0Ezy5t0-YuMQsS66tOIpl-1w6RBs9e-q6&_nc_ohc=P0VWd-kfYhQQ7kNvgHJQamo&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCuN1hRRzxJpVVLdQaayix5IWdFWDC-VdGL1py7fFbkWg&oe=6662CA5D"
+    },
+    {
+      "id": 29,
+      "title": "Chậu Lan Hồ Điệp Tone Trắng",
+      "description": "Chậu lan hồ điệp tone trắng là biểu tượng của sự trong sáng và tinh khôi. Màu trắng thường được coi là biểu tượng của sự trong trắng và thuần khiết, và khi được áp dụng vào chậu lan hồ điệp, nó tạo ra một diện mạo thanh lịch và sang trọng. Chậu lan hồ điệp tone trắng mang lại không gian yên bình và tĩnh lặng, và là lựa chọn lý tưởng để làm quà tặng trong các dịp đặc biệt hoặc để trang trí không gian sống với sự thanh nhã và tinh tế.",
+      "price": 3800,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/438299481_428572009919182_3046159556818295525_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGf4_-l4SwziGbIqWmEVmery2tB5TnfLu_La0HlOd8u7zBy0PQf-JVPYorsm7-KSj4wR99Y1QfaMzDF8NPT5uQ1&_nc_ohc=UK4HuvpTgxkQ7kNvgGP3L20&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCeUhfL0Mqns5tKvEt8Rs4WFzrsYL0wzR8n7Qz_uKzmxw&oe=6662B635"
+    },
+    {
+      "id": 30,
+      "title": "Hộp Hoa Mica Mix Bông Lan Hồ Điệp ",
+      "description": "Hộp hoa mica mix bông lan hồ điệp là một sự kết hợp độc đáo giữa vẻ đẹp của hoa lan hồ điệp và sự hiện đại của hộp mica. Sự kết hợp này tạo ra một sản phẩm trang trí độc đáo và lôi cuốn, mang lại không gian tươi mới và hiện đại cho mọi nơi trang trí. Hộp hoa mica mix bông lan hồ điệp không chỉ là một món quà ý nghĩa và đẹp mắt để tặng trong các dịp đặc biệt mà còn là một điểm nhấn độc đáo cho không gian sống hoặc làm việc.",
+      "price": 1700,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "thumbnail": "https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/438305726_428436629932720_7528811032940199291_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGEPvRG0Eu0UoCMQPQa4RWv5JbHJ4bYzdbklscnhtjN1qTM0jhU1tAdmh9U3-1HIvIBw3y-m-k4V-FJ-qjv67G1&_nc_ohc=Nu7EpPzchNsQ7kNvgHQPMaq&_nc_ht=scontent.fhan15-2.fna&oh=00_AYASzq2QJzWIxjYC7M2Suj_n6faJbbNVFrKRUM2IiDSdkA&oe=6662C6C9"
+    }
+  ],
+  "users": []
+}
